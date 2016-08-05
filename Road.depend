@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1467905037 source:g:\programist\c++\road\additions.cpp
+	"additions.h"
+	<string>
+
+1469005040 g:\programist\c++\road\additions.h
+	<string>
+
+1469111413 source:g:\programist\c++\road\main.cpp
+	<iostream>
+	"additions.h"
+	"user.h"
+	"statictic.h"
+	"car.h"
+	"msoftcon.h"
+	<ctime>
+	<conio.h>
+	<stdio.h>
+
+1467904791 g:\programist\c++\road\user.h
+	<string>
+	"additions.h"
+	"statictic.h"
+
+1467905043 source:g:\programist\c++\road\user.cpp
+	"user.h"
+
+1467889888 g:\programist\c++\road\statictic.h
+
+1467891188 source:g:\programist\c++\road\statictic.cpp
+	"statictic.h"
+	<iomanip>
+	<iostream>
+
+1469111448 source:g:\programist\c++\road\road.cpp
+	"msoftcon.h"
+	<stdio.h>
+	<ctime>
+	"car.h"
+	"truck.h"
+	"sport.h"
+
+1469055622 g:\programist\c++\road\road.h
+	"car.h"
+
+1469111403 source:g:\programist\c++\road\car.cpp
+	"car.h"
+	<stdio.h>
+	<cmath>
+
+1469102054 g:\programist\c++\road\car.h
+	"additions.h"
+	"msoftcon.h"
+
+1286941182 g:\programist\c++\road\msoftcon.h
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1425424810 source:g:\programist\c++\road\msoftcon.cpp
+	"msoftcon.h"
+	<conio.h>
+
+1469096368 source:g:\programist\c++\road\truck.cpp
+	"truck.h"
+	<stdio.h>
+
+1469096348 g:\programist\c++\road\truck.h
+	"additions.h"
+	"msoftcon.h"
+	"car.h"
+	"truck.h"
+
+1469096256 g:\programist\c++\road\sport.h
+	"car.h"
+
+1469011210 source:g:\programist\c++\road\sport.cpp
+	"sport.h"
+
+1469596362 source:d:\1!progga\alice-road-master\additions.cpp
+	"additions.h"
+	<string>
+
+1469596362 d:\1!progga\alice-road-master\additions.h
+	<string>
+
+1469815417 source:d:\1!progga\alice-road-master\car.cpp
+	"car.h"
+	<stdio.h>
+	<cmath>
+	<iostream>
+
+1470051841 d:\1!progga\alice-road-master\car.h
+	"additions.h"
+	"msoftcon.h"
+
+1469596362 d:\1!progga\alice-road-master\msoftcon.h
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1469642276 source:d:\1!progga\alice-road-master\main.cpp
+	<iostream>
+	"additions.h"
+	"user.h"
+	"statictic.h"
+	"car.h"
+	"truck.h"
+	"msoftcon.h"
+	<ctime>
+	<conio.h>
+	<stdio.h>
+
+1469596362 d:\1!progga\alice-road-master\user.h
+	<string>
+	"additions.h"
+	"statictic.h"
+
+1469596362 d:\1!progga\alice-road-master\statictic.h
+
+1469596362 source:d:\1!progga\alice-road-master\msoftcon.cpp
+	"msoftcon.h"
+	<conio.h>
+
+1469596362 source:d:\1!progga\alice-road-master\road.cpp
+	"msoftcon.h"
+	<stdio.h>
+	<ctime>
+	"car.h"
+	"truck.h"
+	"sport.h"
+
+1469596362 d:\1!progga\alice-road-master\truck.h
+	"additions.h"
+	"msoftcon.h"
+	"car.h"
+	"truck.h"
+
+1469596362 d:\1!progga\alice-road-master\sport.h
+	"car.h"
+
+1469596362 source:d:\1!progga\alice-road-master\sport.cpp
+	"sport.h"
+
+1469596362 source:d:\1!progga\alice-road-master\statictic.cpp
+	"statictic.h"
+	<iomanip>
+	<iostream>
+
+1469638139 source:d:\1!progga\alice-road-master\truck.cpp
+	"truck.h"
+	<stdio.h>
+
+1469596362 source:d:\1!progga\alice-road-master\user.cpp
+	"user.h"
+
