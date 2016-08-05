@@ -3,6 +3,8 @@
 
 #include <string>
 
+const int Q = 8;
+
 class Email {
 public:
     std::string userName;
